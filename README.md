@@ -1,5 +1,7 @@
 # Alpinistas
-2D platformer created in Unreal Engine 4
+Video game "Alpinistas" or "Climber" is a 2D platformer and endless runner
+type of game. This was a project of my friend and I using "Unreal Engine 4"
+and different graphic design software.
 
 Notes:<br>
 -exe file not included<br>
